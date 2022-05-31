@@ -1,20 +1,7 @@
 
 
-==============================================
 
 # Java Swing Application
-
-Pavan Kumar Narayanan
-
-Northern Arizona University
-
-CIT 321 Fundamentals of Hardware and Operating Systems
-
-Prof Jeanine Copley
-
-May 27, 2022
-
-===============================================
 
 The code is in this folder: cit321\src\cit321.java
 
