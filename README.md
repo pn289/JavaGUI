@@ -3,9 +3,9 @@
 
 # Java Swing Application
 
-The code is in this folder: cit321\src\cit321.java
+The code is in this folder: JavaGUI\src\cit321.java
 
-The executable JAR is in this folder: cit321\dist\cit321.jar
+The executable JAR is in this folder: JavaGUI\dist\cit321.jar
 
 JRE is required to run this application
 
