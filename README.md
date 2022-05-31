@@ -2,7 +2,7 @@
 
 ==============================================
 
-Java Swing Application - mastery submission
+# Java Swing Application
 
 Pavan Kumar Narayanan
 
